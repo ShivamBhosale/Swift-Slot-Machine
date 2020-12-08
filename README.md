@@ -1,2 +1,3 @@
 # Swift-Slot-Machine
-![slot](https://user-images.githubusercontent.com/50315818/101500881-0e6f0800-3995-11eb-87e5-8fdd6d4ca73d.jpeg)
+![slot](https://user-images.githubusercontent.com/50315818/101501139-60179280-3995-11eb-9e1f-6434006a02fe.jpg)
+
